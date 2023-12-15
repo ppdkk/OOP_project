@@ -3,7 +3,7 @@ import LetterState.NewLetter;
 import StudentBuilder.Student;
 import CookieDecorator.*;
 //стан посилки або
-//фасад быблыотека выдео або кинотеатр
+//фасад бібліотека відео або кинотеатр
 
 
 public class Main {
